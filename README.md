@@ -10,3 +10,19 @@ Just testing things out!
 
 - [ ] check
 - [ ] it out
+
+It's really cool! Let's have some fun formatting text:
+
+**Hey there**
+
+*Ba bai*
+
+***BAAA BAI***
+
+~~striking~~
+
+| name  | profession |  age |
+| :---: | :--------- | ---: |
+| John  | handicraft |   12 |
+| Sonia | dentist    |   33 |
+| Arnon | joke       |   44 |
